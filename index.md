@@ -18,7 +18,7 @@ ___
     - 卡方檢定
     - 羅吉斯迴歸
     - 複迴歸分析
-　　
+
 #### Microsoft Office
     - Excel  
     - VBA  
