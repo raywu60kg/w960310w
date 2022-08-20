@@ -1,47 +1,47 @@
 ___
 # Education
-### 逢甲大學 統計與精算學系 碩士畢業 | 2017/9-2020/9
+#### 逢甲大學 統計與精算學系 碩士畢業 | 2017/9-2020/9
 ##### 癌症病患臨終前一年安寧療護使用率及住院費用分析
 使用 SAS EG 分析全民健康保險資料庫癌症病患資料完成碩士論文，主要使用卡方檢定、羅吉斯迴歸、複迴歸分析，分析病患使用安寧療護之情形以及醫療行為習慣，同時分析病患在使用各類療護後的住院費用差異，達到檢驗安寧療護成效之目的
 
 
-### 國立高雄大學 應用數學系 大學畢業 | 2011/9~2015/7
+#### 國立高雄大學 應用數學系 大學畢業 | 2011/9~2015/7
 
 ___
 # Experience
-### 屏東農田水利會 行政助理 | 2016/05-2017/05
+#### 屏東農田水利會 行政助理 | 2016/05-2017/05
 
 ___
 # 專長
-### SAS EG
+#### SAS EG
 
-### Statistic
+#### Statistic
     - 卡方檢定
     - 羅吉斯迴歸
     - 複迴歸分析
 
-### Microsoft Office
+#### Microsoft Office
     - Excel  
     - VBA  
     - Word  
     - PowerPoint 
 
-### Python
+#### Python
     - Visualization
     - Pandas 
     - Numpy
 
 ___
 # 證照
-### Society of Actuaries Exam P  
+#### Society of Actuaries Exam P  
 Grade : 9/10
 
 ___
 # Projects
-### Python
+#### Python
     - todo
 
-### VBA
+#### VBA
     - todo
 
 ___
