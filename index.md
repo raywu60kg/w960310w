@@ -1,5 +1,4 @@
-
-# Education
+## Education
 #### 逢甲大學 統計與精算學系 碩士畢業 | 2017/9-2020/9
 
 論文: 癌症病患臨終前一年安寧療護使用率及住院費用分析
@@ -11,7 +10,7 @@
 #### 屏東農田水利會 行政助理 | 2016/05-2017/05
 
 
-# 專長
+## 專長
 #### SAS EG
 
 #### Statistic
@@ -27,10 +26,11 @@
 - PowerPoint 
 
 #### Python
+- Visualization
 - Pandas 
 - Numpy
 
-# 證照
+## 證照
 #### Society of Actuaries Exam P  
 Grade : 9/10
 
